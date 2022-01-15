@@ -1,0 +1,15 @@
+{
+  "SharedAssets": null,
+  "Title": "Apartment",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "apartment",
+  "FullIdent": "local.apartment",
+  "Schema": 1,
+  "NeedsUpgrade": false,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "code",
+  "RootNamespace": "Sandbox"
+}
